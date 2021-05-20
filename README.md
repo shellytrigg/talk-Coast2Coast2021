@@ -1,10 +1,18 @@
 # talk-Coast2Coast2021
-Biodiversity Data Science Seminar
+
+
+
 
 **Title:**
 Diversity in animal response to environmental change
 
 **Seminar information:**
+
+Data Science Coast to Coast Seminar Series  
+Hosted by the Academic Data Science Alliance  
+May 19, 2021  
+3pm
+
 [https://academicdatascience.org/resources/coast2coastseminar](https://academicdatascience.org/resources/coast2coastseminar)
 
 The DS C2C seminar series, hosted jointly by seven academic data science institutes, provides a unique opportunity to foster a broad-reaching data science community
@@ -19,8 +27,8 @@ Biodiversity
 
 **Slide deck:** 
 
-- PDF version: []()
-- Powerpoint version: []()
+- PDF version: [STRIGG_C2C2021.pdf](https://github.com/shellytrigg/talk-Coast2Coast2021/blob/main/STRIGG_C2C2021.pdf)
+- Powerpoint version: [STRIGG_C2C2021.pptx](https://github.com/shellytrigg/talk-Coast2Coast2021/blob/main/STRIGG_C2C2021.pptx)
 
 **Abstract:**
 How will ecosystems tolerate the climate and ocean change occurring now and predicted for the future? To begin addressing this question, we can subject different animals to different anthropogenic pressures and evaluate their responses. We can more sensitively and comprehensively assess responses by performing molecular surveys using omics technologies (e.g. genomics, proteomics, metabolomics, etc.), which allow us to more clearly see the cellular processes that underlie environmental tolerance and intolerance. This data can also help us compare between species since all species have these general molecules (DNA, proteins, metabolites) in common. I'm going to present data from different studies on marine invertebrates exposed to different environmental conditions, and describe how I used multiple data science approaches to distill large omics datasets into dominant biological pathways associated with environmental tolerance and intolerance. After summarizing responses across species and conditions, I will propose future directions and data science applications for the wealth of environmental omics data being generated. 
